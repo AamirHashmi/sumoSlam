@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\prox.cs">
+    <Files>
+      <File FileName="Assets\movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\movement2.cs" Line="1" Column="1" />
+      <File FileName="Assets\FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\deathCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\winnertext.cs" Line="1" Column="1" />
+      <File FileName="Assets\HUD.cs" Line="1" Column="1" />
+      <File FileName="Assets\prox.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
